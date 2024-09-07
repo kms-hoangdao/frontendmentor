@@ -1,1 +1,1 @@
-# frontendmentor
+this repo for practice front end skill of me
